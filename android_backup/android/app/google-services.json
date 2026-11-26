@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "789359321340",
+    "project_id": "energynex-98e2f",
+    "storage_bucket": "energynex-98e2f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789359321340:android:332564740e9dc9077af779",
+        "android_client_info": {
+          "package_name": "com.energynex.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSq-LblgOm0lIMYDCs6i3rjVAQBTwvVdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
